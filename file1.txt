@@ -4,7 +4,7 @@
 4th line
 
 6th line
-<<<<<<< HEAD
+
 10th line
 11th line
 
