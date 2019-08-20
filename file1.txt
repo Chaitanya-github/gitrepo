@@ -4,10 +4,16 @@
 4th line
 
 6th line
+<<<<<<< HEAD
 
 10th line
 11th line
 
+=======
+7th line 
+8th line
+9th line
+>>>>>>> 7e55e231aa97dd3a6ab3135ee20793f7ab475084
 =======
 7th line 
 8th line
